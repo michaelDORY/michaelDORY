@@ -2,37 +2,17 @@
 <p align="center">
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="150"/>
 </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/misha-makarevych/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/mishmakwwwO" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
-  </a>
-</p>
 
 <h3 align="center">
   Nice to meat you, dear)
   <img src="https://media.giphy.com/media/nVTxfg1Kb9MhW/giphy.gif" width="65">
 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"  />
-</p>
-
 ### 👨‍💻: &nbsp;About Me :
 
 I am a JavaScript Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine 🇺🇦.
-Student of NURE university, where learn a lot of different technologies.
 
 Main niche - Frontend💙❤️‍🔥
-
-- 🔭 I’m working as a Software Engineer and contributing to frontend for building web applications.
-- 🌱 Learning different technologies.
-- ⚡ In my free time I listen to music, walk or watch Asian dorams).
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Misha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/misha-makarevych/)
 
 ---
 
