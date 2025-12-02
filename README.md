@@ -2,13 +2,13 @@
 
 ## Senior Frontend Developer | React Enthusiast
 
-With 4 years of experience crafting exceptional user interfaces, I'm passionate about creating seamless web experiences using cutting-edge technologies.
+With 5 years of experience crafting exceptional user interfaces, I'm passionate about creating seamless web experiences using cutting-edge technologies.
 
 ### 🚀 Quick Facts
 
 - 💼 Senior Frontend Developer
 - 🔭 Specializing in React ecosystem
-- 🌟 4 years of professional experience
+- 🌟 5 years of professional experience
 - 🌱 Always learning and exploring new frontend trends
 
 ### 💻 Tech Stack
