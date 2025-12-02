@@ -29,12 +29,6 @@ Here are some of my notable projects:
 1. [Grace](https://www.grace-technology.io/) - Offers customers the confidence to wear their luxury goods anywhere in the world
 2. [Unimeal](https://unimeal.com/) - Fitness App
 3. [MadMuscles](https://madmuscles.com/) - Fitness App
-
-### 📈 GitHub Stats
-
-[![Misha's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelDORY&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats-psi-peach.vercel.app?user=michaelDory&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
 ### 🤝 Let's Connect!
 
 - [LinkedIn](your-linkedin-profile)
