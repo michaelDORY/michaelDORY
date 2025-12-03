@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Misha <img src="https://media.giphy.com/media/nVTxfg1Kb9MhW/giphy.gif" width="40">
 
-## Senior Frontend Developer | React Enthusiast
+## Senior Front-End Developer | Full-Stack Engineer | Web Expert
 
 With 5 years of experience crafting exceptional user interfaces, I'm passionate about creating seamless web experiences using cutting-edge technologies.
 
