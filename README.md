@@ -6,7 +6,8 @@ With 5 years of experience crafting exceptional user interfaces, I'm passionate 
 
 ### 🚀 Quick Facts
 
-- 💼 Senior Frontend Developer
+- 💼 Senior Front-End Developer
+- 💼 Senior Full-Stack Developer
 - 🔭 Specializing in React ecosystem
 - 🌟 5 years of professional experience
 - 🌱 Always learning and exploring new frontend trends
@@ -34,4 +35,4 @@ Here are some of my notable projects:
 - [LinkedIn](your-linkedin-profile)
 - mish.makwww@gmail.com
 
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about frontend development!
+Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about front-end/full-stack development!
