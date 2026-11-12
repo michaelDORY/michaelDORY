@@ -1,19 +1,20 @@
 # 👋 Hi there, I'm Misha <img src="https://media.giphy.com/media/nVTxfg1Kb9MhW/giphy.gif" width="40">
 
-## Senior Front-End Developer | Full-Stack Engineer | Web Expert
+## Senior Full-Stack Engineer
 
 With 5 years of experience crafting exceptional user interfaces, I'm passionate about creating seamless web experiences using cutting-edge technologies.
 
 ### 🚀 Quick Facts
 
-- 💼 Senior Front-End Developer
 - 💼 Senior Full-Stack Developer
+- - 💼 Senior Front-End Developer
 - 🔭 Specializing in React ecosystem
 - 🌟 5 years of professional experience
 - 🌱 Always learning and exploring new frontend trends
 
 ### 💻 Tech Stack
 
+- Node.js
 - React
 - JavaScript (ES6+)
 - TypeScript
@@ -35,4 +36,4 @@ Here are some of my notable projects:
 - [LinkedIn](your-linkedin-profile)
 - mish.makwww@gmail.com
 
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about front-end/full-stack development!
+Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about full-stack development!
