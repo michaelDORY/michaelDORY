@@ -7,7 +7,7 @@ With 5 years of experience crafting exceptional user interfaces, I'm passionate 
 ### 🚀 Quick Facts
 
 - 💼 Senior Full-Stack Developer
-- - 💼 Senior Front-End Developer
+- 💼 Senior Front-End Developer
 - 🔭 Specializing in React ecosystem
 - 🌟 5 years of professional experience
 - 🌱 Always learning and exploring new frontend trends
